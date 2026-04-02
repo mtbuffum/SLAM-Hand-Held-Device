@@ -188,7 +188,18 @@ Ensure:
 | good_vo | Whether frame is considered reliable |
 
 ---
+## Demo
 
+### Feature Tracking
+![Feature Tracking](docs/feature_tracking.png)
+
+### Trajectory and Map
+![SLAM Map](docs/map_view.png)
+
+<p align="center">
+  <img src="docs/feature_tracking.png" width="45%" />
+  <img src="docs/map_view.png" width="45%" />
+</p>
 ## Limitations
 
 - Monocular scale is not metric
