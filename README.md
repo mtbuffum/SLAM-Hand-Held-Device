@@ -200,6 +200,7 @@ Ensure:
   <img src="docs/feature_tracking.png" width="45%" />
   <img src="docs/map_view.png" width="45%" />
 </p>
+
 ## Limitations
 
 - Monocular scale is not metric
